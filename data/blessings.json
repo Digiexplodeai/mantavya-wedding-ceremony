@@ -1,0 +1,26 @@
+[
+  {
+    "id": "blessing-1",
+    "name": "Goyal & Singla Parivar",
+    "relationship": "Family Elders",
+    "message": "May Lord Ganesha shower His choicest blessings upon Mantavya and Nitika as you embark on this sacred journey of togetherness, love, and lifelong harmony.",
+    "createdAt": "2026-10-15T10:30:00.000Z",
+    "approved": true
+  },
+  {
+    "id": "blessing-2",
+    "name": "Kirna & Bhushan Goyal",
+    "relationship": "Goyal Family",
+    "message": "Wishing both of you a lifetime filled with endless laughter, warm festivities, and royal memories. Our hearts are overflowing with joy for November 12th & 14th!",
+    "createdAt": "2026-10-16T14:20:00.000Z",
+    "approved": true
+  },
+  {
+    "id": "blessing-3",
+    "name": "Sarla & Dev Raj Garg",
+    "relationship": "Extended Family",
+    "message": "Two wonderful souls and two loving families uniting as one. May your home always glow with warmth, prosperity, and unwavering devotion.",
+    "createdAt": "2026-10-18T09:15:00.000Z",
+    "approved": true
+  }
+]
